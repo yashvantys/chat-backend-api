@@ -24,7 +24,9 @@ Technology Stack
 - @prisma/adapter-pg and pg
 - Firebase Admin SDK
 - dotenv
+
 Project Structure
+
 chat-backend/
 ├── prisma/
 │   ├── schema.prisma
